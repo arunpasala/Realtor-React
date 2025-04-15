@@ -44,7 +44,7 @@ export default function Header() {
               }`}  
               onClick={()=>(navigate("/sign-in"))}
             >
-              signin
+              Sign In
             </li>
           </ul>
         </div>
